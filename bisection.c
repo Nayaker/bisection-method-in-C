@@ -39,6 +39,7 @@ int main() {
         }
         else { //we were unable to find the roots upto the assumed tolerance using the provided number of iterations.
             printf("Unable to find roots. The max iterations isn't sufficient to meet tolerance.\n");
+            return 0;
         }
 
 
