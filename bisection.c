@@ -29,6 +29,7 @@ int main() {
                 printf("%d\t\t %f\t %f\t %f\t %f\n",i, a, b, c, func(c));
             } else {
                 printf("Why did the process fail? Really maeks you fink! Hmm.\n"); //possibly the ranges are too off for meaningful convergence
+                return 0;
             }
             i++;
         }
@@ -39,7 +40,6 @@ int main() {
         }
         else { //we were unable to find the roots upto the assumed tolerance using the provided number of iterations.
             printf("Unable to find roots. The max iterations isn't sufficient to meet tolerance.\n");
-            return 0;
         }
 
 
