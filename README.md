@@ -12,7 +12,7 @@ Copyright (C) 2017 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
-Here's my vim. Pretty comfy I tell you. I shall never have the privilige to use [2 GB just to print a blinking cursor](https://github.com/Microsoft/vscode/issues/22900)  though!
+Here's my vim. Pretty comfy I tell you. I shall never have the privilige to use [2 GiB just to print a blinking cursor](https://github.com/Microsoft/vscode/issues/22900)  though!
 ![N](https://imgoat.com/uploads/c8349cc726/44647.png)
 
 
