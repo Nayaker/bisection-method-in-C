@@ -28,7 +28,7 @@ int main() {
                 a = c;
                 printf("%d\t\t %f\t %f\t %f\t %f\n",i, a, b, c, func(c));
             } else {
-                printf("Why did the process fail? Really maeks you fink! Hmm.\n"); //possibly the ranges are too off for meaningful convergence
+                printf("Why did the process fail? Really makes you fink! Hmm.\n"); //possibly the ranges are too off for meaningful convergence
                 return 0;
             }
             i++;
